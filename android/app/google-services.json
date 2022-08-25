@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36558794360",
+    "firebase_url": "https://time-management-5b8ae.firebaseio.com",
+    "project_id": "time-management-5b8ae",
+    "storage_bucket": "time-management-5b8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36558794360:android:b1b136d695a831f252c78d",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36558794360-pijoi8gp9tq1jit16sp42cgk4ce8n58b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfm5FbTTtl-g3bpuERjvvBbg5QaRCP208"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36558794360-pijoi8gp9tq1jit16sp42cgk4ce8n58b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
